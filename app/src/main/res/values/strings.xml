@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz en Images</string>
+    <string name="quiz_title">Quiz Formes Géométriques</string>
+    <string name="score_format">Score : %1$d / %2$d</string>
+    <string name="question_number_format">Question %1$d sur %2$d</string>
+    <string name="btn_next_question">Question suivante</string>
+    <string name="btn_see_result">Voir le résultat</string>
+    <string name="btn_replay">Rejouer</string>
+
+    <string name="feedback_correct">Exact ! C\'est la bonne réponse.</string>
+    <string name="feedback_wrong_format">Incorrect ! La bonne réponse était : %1$s.</string>
+
+    <string name="final_score_format">Votre score final : %1$d / %2$d</string>
+    <string name="result_excellent">Excellent ! Vous avez un sans-faute !</string>
+    <string name="result_good">Bien joué ! Bon niveau de réussite.</string>
+    <string name="result_average">Moyen. Vous pouvez encore vous améliorer.</string>
+    <string name="result_poor">Ne découragez pas ! Réessayez pour faire mieux.</string>
+
+    <!-- Content Descriptions for Accessibility -->
+    <string name="desc_triangle">Un triangle bleu sur fond bleu clair</string>
+    <string name="desc_carre">Un carré vert sur fond vert clair</string>
+    <string name="desc_cercle">Un cercle orange sur fond orange clair</string>
+    <string name="desc_etoile">Une étoile jaune sur fond violet clair</string>
+    <string name="desc_rectangle">Un rectangle turquoise sur fond turquoise clair</string>
+</resources>

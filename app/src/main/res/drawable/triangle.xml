@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M 100,10 A 90,90 0 1,0 100,190 A 90,90 0 1,0 100,10 Z" />
+    <!-- Triangle -->
+    <path
+        android:fillColor="#1E88E5"
+        android:strokeColor="#1565C0"
+        android:strokeWidth="4"
+        android:pathData="M 100,35 L 165,150 L 35,150 Z" />
+</vector>
